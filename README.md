@@ -72,4 +72,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 
 Nicolás Ramos - hola@nramos.dev
 
-Enlace del proyecto: [https://github.com/tu-usuario/telegram-channel-downloader](https://github.com/nramosdev/telegram-channel-downloader)
+Enlace del proyecto: [https://github.com/nramosdev/telegram-channel-downloader](https://github.com/nramosdev/telegram-channel-downloader)
